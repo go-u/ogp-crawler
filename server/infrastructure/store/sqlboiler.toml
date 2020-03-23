@@ -1,0 +1,9 @@
+# for local dev
+[mysql]
+  dbname  = "ogp_local"
+  host    = "127.0.0.1"
+  port    = 5555
+  user    = "root"
+  pass    = "pass"
+  sslmode = "false"
+#  no-auto-timestamps = "true"

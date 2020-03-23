@@ -1,0 +1,3 @@
+ratelimit:
+  twitter: 10
+  ogp: 3600
